@@ -1,0 +1,14 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "Quote generator app for freeCodeCamp",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --files \"index.html\""
+  },
+  "author": "Victor Avila",
+  "license": "ISC",
+  "dependencies": {
+    "mdbootstrap": "^4.5.0"
+  }
+}

@@ -1,0 +1,16 @@
+html, body {
+  padding-top: 4%;
+  background-color: #faf6fd;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.card {
+  background-color: whitesmoke;
+}
+
+.view {
+  margin-top: 2%;
+}
