@@ -1,5 +1,5 @@
 html, body {
-  padding-top: 4%;
+  padding-top: 2%;
   background-color: #faf6fd;
 }
 
@@ -11,6 +11,15 @@ p {
   background-color: whitesmoke;
 }
 
+.cat {
+  font-size: 12px;
+  opacity: .4;
+}
+
 .view {
-  margin-top: 2%;
+  padding-top: 2vh;
+}
+
+.author {
+  padding: 3vh 9vh 3vh 5vh;
 }
