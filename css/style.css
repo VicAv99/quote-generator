@@ -14,13 +14,9 @@ p {
 #cat {
   font-size: 12px;
   opacity: .4;
-  padding: 0 2vh 0 0;
-}
-
-#view {
-  padding-top: 2vh;
+  padding: 0 3vh 0 0;
 }
 
 #author {
-  padding: 3vh 9vh 1vh 5vh;
+  padding: 2vh 5vh 6vh 0;
 }
